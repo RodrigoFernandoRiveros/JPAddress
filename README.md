@@ -33,6 +33,7 @@ CREATE TABLE IF NOT EXISTS user_has_rol (
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
+
 Y luego poblarla acá con este script.
 
 insert into user values
