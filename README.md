@@ -1,4 +1,4 @@
-Ejercicio con JPA y Spring Security
+Ejercicio con JPA y Spring Security 2022 Sustantiva
 Spring Security
 Incluimos dependencias en pom.xml, incluimos página de login (horrible, lo sé, pero funcional), creamos una pequeña estructura de datos para contener a usuario y sus roles.
 
